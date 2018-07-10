@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="text_size">18sp</dimen>
+  <dimen name="snack_bar_text_size">10sp</dimen>
+  <dimen name="view_right_margin">10dp</dimen>
+  <dimen name="view_left_margin">10dp</dimen>
+  <dimen name="error_msg_text_size">30sp</dimen>
+  <dimen name="card_grid_view_height">250dp</dimen>
+  <dimen name="image_grid_view_height">190dp</dimen>
+  <dimen name="card_corner_radius">10dp</dimen>
+  <dimen name="card_elevation">5dp</dimen>
+  <dimen name="item_inside_card_margin_top">5dp</dimen>
+  <dimen name="item_inside_card_margin_bottom">5dp</dimen>
+</resources>
